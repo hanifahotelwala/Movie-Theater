@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=capacity\ is3D\ movieShowing
+comment0.target=Theater(int,\ boolean,\ Movie)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Theater\n
+comment1.params=
+comment1.target=void\ display()
+comment10.params=seats
+comment10.target=boolean\ reservation(int)
+comment2.params=
+comment2.target=int\ getCapacity()
+comment3.params=
+comment3.target=int\ reservedSeats()
+comment4.params=
+comment4.target=boolean\ is3D()
+comment5.params=
+comment5.target=java.lang.String\ movieShowing()
+comment6.params=nCapacity
+comment6.target=void\ changeCapacity(int)
+comment7.params=newReservation
+comment7.target=void\ changeReservedSeats(int)
+comment8.params=is3D
+comment8.target=void\ changeIs3D(boolean)
+comment9.params=newMovie
+comment9.target=void\ changeMovieShowing(Movie)
+numComments=11

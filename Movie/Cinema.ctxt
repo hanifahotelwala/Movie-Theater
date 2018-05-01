@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=t1\ t2\ t3
+comment0.target=Cinema(Theater,\ Theater,\ Theater)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Complex\n
+comment1.params=
+comment1.target=void\ display()
+comment2.params=
+comment2.target=Theater\ getT1()
+comment3.params=
+comment3.target=Theater\ getT2()
+comment4.params=
+comment4.target=Theater\ getT3()
+comment5.params=select
+comment5.target=void\ getSelected(int)
+numComments=6

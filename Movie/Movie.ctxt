@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=title\ actor\ rated18\ length
+comment0.target=Movie(java.lang.String,\ java.lang.String,\ boolean,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Movie\n
+comment1.params=
+comment1.target=void\ displayMovie()
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=
+comment3.target=java.lang.String\ getActor()
+comment4.params=
+comment4.target=boolean\ getRating()
+comment5.params=
+comment5.target=int\ getLength()
+comment6.params=nTitle
+comment6.target=void\ changeTitle(java.lang.String)
+comment7.params=nActor
+comment7.target=void\ changeActor(java.lang.String)
+comment8.params=nRating
+comment8.target=void\ changeRating(boolean)
+comment9.params=nLength
+comment9.target=void\ changeLength(int)
+numComments=10
